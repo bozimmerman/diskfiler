@@ -1,0 +1,12 @@
+64miniword (C)1993-2019 Bo Zimmerman
+Please read the LICENSE file for license information
+Please read the NOTICE file for credits information
+Home Page: http://www.zimmers.net/geos/
+
+Disk Filer is a disk file name database program for the Commodore 64.  It supports auto-directory reading and manual entries, sorting, disk ID fields, printing, and includes a disk/drive control prompt.
+
+Building:
+Disk Filer can be run in native BASIC.  The machine language portion (ssort.ml) should be assembled and then renamed to "ssort.ml" before using, as the BASIC portion requires it.
+
+
+
